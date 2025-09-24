@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img width="357" height="202" alt="Screenshot 2025-09-24 at 5 50 22 PM" src="https://github.com/user-attachments/assets/878637ad-0005-4277-8b74-e0ce1cadb24e"/>
+</p>
+
 # 👨🏻‍🏫 Prof Cinema – AI Movie Recommendation App  
 
 Prof Cinema is a **rule-based AI system** designed to help users **find movies** based on their preferences.  
